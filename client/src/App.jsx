@@ -1,9 +1,9 @@
 // App.js
 import React, { useState, useEffect } from 'react';
-import Header from './components/Header';
-import LoadingSpinner from './components/LoadingSpinner';
-import ErrorMessage from './components/ErrorMessage';
-import ImportHistoryTable from './components/ImportHistoryTable';
+import Header from './components/Header.jsx';
+import LoadingSpinner from './components/LoadingSpinner.jsx';
+import ErrorMessage from './components/ErrorMessage.jsx';
+import ImportHistoryTable from './components/ImportHistoryTable.jsx';
 
 // Main App component
 const App = () => {
