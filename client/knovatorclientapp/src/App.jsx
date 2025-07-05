@@ -14,7 +14,7 @@ const App = () => {
 
   // Define the backend API URL. Make sure this matches your Node.js server's address.
   // If your frontend is served from a different domain/port, ensure CORS is enabled on your backend.
-  const BACKEND_API_URL = 'http://localhost:8081/api/imports';
+  const BACKEND_API_URL =  'http://localhost:5000/api/imports';
 
   // useEffect hook to fetch data when the component mounts
   useEffect(() => {
