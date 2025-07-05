@@ -284,3 +284,5 @@ Authentication/Authorization: Add user authentication for the Admin UI.
 More Robust API Parsing: Implement more flexible or configurable parsing rules for diverse XML structures.
 
 Unit/Integration Tests: Add comprehensive test suites for backend services and API endpoints.
+
+Deployed link : https://knovator-assignment-j1zh.vercel.app/
